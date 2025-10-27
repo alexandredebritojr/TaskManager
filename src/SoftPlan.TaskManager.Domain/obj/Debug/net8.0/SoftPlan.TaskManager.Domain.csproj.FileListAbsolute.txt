@@ -1,0 +1,11 @@
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\bin\Debug\net8.0\SoftPlan.TaskManager.Domain.deps.json
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\bin\Debug\net8.0\SoftPlan.TaskManager.Domain.dll
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\bin\Debug\net8.0\SoftPlan.TaskManager.Domain.pdb
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\obj\Debug\net8.0\SoftPlan.TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\obj\Debug\net8.0\SoftPlan.TaskManager.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\obj\Debug\net8.0\SoftPlan.TaskManager.Domain.AssemblyInfo.cs
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\obj\Debug\net8.0\SoftPlan.TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\obj\Debug\net8.0\SoftPlan.TaskManager.Domain.dll
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\obj\Debug\net8.0\refint\SoftPlan.TaskManager.Domain.dll
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\obj\Debug\net8.0\SoftPlan.TaskManager.Domain.pdb
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Domain\obj\Debug\net8.0\ref\SoftPlan.TaskManager.Domain.dll

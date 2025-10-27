@@ -1,0 +1,15 @@
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\bin\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.deps.json
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\bin\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.dll
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\bin\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.pdb
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\bin\Debug\net8.0\SoftPlan.TaskManager.Domain.dll
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\bin\Debug\net8.0\SoftPlan.TaskManager.Domain.pdb
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\SoftPlan.06EADBE5.Up2Date
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.dll
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\refint\SoftPlan.TaskManager.Infrastructure.dll
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\SoftPlan.TaskManager.Infrastructure.pdb
+C:\Users\DELL\Downloads\SoftPlan_TaskManager_NET8\src\SoftPlan.TaskManager.Infrastructure\obj\Debug\net8.0\ref\SoftPlan.TaskManager.Infrastructure.dll

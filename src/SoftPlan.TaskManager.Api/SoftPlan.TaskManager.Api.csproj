@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SoftPlan.TaskManager.Application\SoftPlan.TaskManager.Application.csproj" />
+    <ProjectReference Include="..\SoftPlan.TaskManager.Infrastructure\SoftPlan.TaskManager.Infrastructure.csproj" />
+    <ProjectReference Include="..\SoftPlan.TaskManager.Domain\SoftPlan.TaskManager.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.0" />
+	<PackageReference Include="FluentValidation.AspNetCore" Version="11.3.1" />
+  </ItemGroup>
+</Project>
+

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OIn2VmDsAXdFTwKDoErckBmnI1VHgT16Sik9PicveTQ=",
+  "Source": "SoftPlan.TaskManager.Api",
+  "BasePath": "_content/SoftPlan.TaskManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

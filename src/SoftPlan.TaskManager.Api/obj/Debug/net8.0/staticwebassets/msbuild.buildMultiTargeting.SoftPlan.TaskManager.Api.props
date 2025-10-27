@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SoftPlan.TaskManager.Api.props" />
+</Project>

@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|tests\\SoftPlan.TaskManager.Tests\\SoftPlan.TaskManager.Tests.csproj|c:\\users\\dell\\downloads\\softplan_taskmanager_net8\\tests\\softplan.taskmanager.tests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|tests\\SoftPlan.TaskManager.Tests\\SoftPlan.TaskManager.Tests.csproj|solutionrelative:tests\\softplan.taskmanager.tests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\SoftPlan.TaskManager.Application\\SoftPlan.TaskManager.Application.csproj|c:\\users\\dell\\downloads\\softplan_taskmanager_net8\\src\\softplan.taskmanager.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\SoftPlan.TaskManager.Application\\SoftPlan.TaskManager.Application.csproj|solutionrelative:src\\softplan.taskmanager.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj|c:\\users\\dell\\downloads\\softplan_taskmanager_net8\\src\\softplan.taskmanager.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj|solutionrelative:src\\softplan.taskmanager.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|tests\\SoftPlan.TaskManager.Tests\\SoftPlan.TaskManager.Tests.csproj|c:\\users\\dell\\downloads\\softplan_taskmanager_net8\\tests\\softplan.taskmanager.tests\\softplan.taskmanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|tests\\SoftPlan.TaskManager.Tests\\SoftPlan.TaskManager.Tests.csproj|solutionrelative:tests\\softplan.taskmanager.tests\\softplan.taskmanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj|c:\\users\\dell\\downloads\\softplan_taskmanager_net8\\src\\softplan.taskmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj|solutionrelative:src\\softplan.taskmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj|c:\\users\\dell\\downloads\\softplan_taskmanager_net8\\src\\softplan.taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj|solutionrelative:src\\softplan.taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj|c:\\users\\dell\\downloads\\softplan_taskmanager_net8\\src\\softplan.taskmanager.api\\softplan.taskmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj|solutionrelative:src\\softplan.taskmanager.api\\softplan.taskmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Application\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "src\\SoftPlan.TaskManager.Application\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Application\\Services\\TaskService.cs",
+              "RelativeToolTip": "src\\SoftPlan.TaskManager.Application\\Services\\TaskService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwCIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:27:11.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoftPlan.TaskManager.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\tests\\SoftPlan.TaskManager.Tests\\SoftPlan.TaskManager.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\SoftPlan.TaskManager.Tests\\SoftPlan.TaskManager.Tests.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\tests\\SoftPlan.TaskManager.Tests\\SoftPlan.TaskManager.Tests.csproj",
+              "RelativeToolTip": "tests\\SoftPlan.TaskManager.Tests\\SoftPlan.TaskManager.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T18:13:21.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\SoftPlan.TaskManager.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\SoftPlan.TaskManager.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T22:54:47.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SoftPlan.TaskManager.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Api\\Program.cs",
+              "RelativeToolTip": "src\\SoftPlan.TaskManager.Api\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:50:00.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\tests\\SoftPlan.TaskManager.Tests\\TaskServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\SoftPlan.TaskManager.Tests\\TaskServiceTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\tests\\SoftPlan.TaskManager.Tests\\TaskServiceTests.cs",
+              "RelativeToolTip": "tests\\SoftPlan.TaskManager.Tests\\TaskServiceTests.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAkwHAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:49:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Api\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "src\\SoftPlan.TaskManager.Api\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Api\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "src\\SoftPlan.TaskManager.Api\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:49:26.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoftPlan.TaskManager.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj",
+              "RelativeDocumentMoniker": "src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\SoftPlan_TaskManager_NET8\\src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj",
+              "RelativeToolTip": "src\\SoftPlan.TaskManager.Api\\SoftPlan.TaskManager.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T22:43:55.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
